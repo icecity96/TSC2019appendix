@@ -1,3 +1,7 @@
+# Ownthink Filtering Rules
+## Filtering By Edge
+### Filter triples by special edge type
+
 # News Data Source
 * https://36kr.com/newsflashes
 * https://www.iyiou.com/breakfeed/
@@ -13,4 +17,3 @@
 * http://www.startup-partner.com/cat/4
 * https://www.cyzone.cn/category/8/~~
 * https://www.jiemian.com/lists/84.html
-
